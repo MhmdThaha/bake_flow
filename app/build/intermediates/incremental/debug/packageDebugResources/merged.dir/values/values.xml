@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BakeFlow</string>
+    <string name="default_web_client_id" translatable="false">266720288979-k11ul0pv7e6dp0ajoc2e8m9ca86l6ppf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">266720288979</string>
+    <string name="google_api_key" translatable="false">AIzaSyARmz0x1xik0ISAkiOOXfCNpEd7ia2xYLg</string>
+    <string name="google_app_id" translatable="false">1:266720288979:android:747daceb76481efc9df426</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARmz0x1xik0ISAkiOOXfCNpEd7ia2xYLg</string>
+    <string name="google_storage_bucket" translatable="false">bakeryflow-cc912.firebasestorage.app</string>
+    <string name="project_id" translatable="false">bakeryflow-cc912</string>
+    <style name="Theme.BakeFlow" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

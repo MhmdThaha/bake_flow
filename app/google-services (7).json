@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266720288979",
+    "project_id": "bakeryflow-cc912",
+    "storage_bucket": "bakeryflow-cc912.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266720288979:android:747daceb76481efc9df426",
+        "android_client_info": {
+          "package_name": "com.bakeflow.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266720288979-1t86gkbd0pkv2f501do4uopao9ol687u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bakeflow.app",
+            "certificate_hash": "7961b77071c71a36dc574d88cfea8c92af23ae21"
+          }
+        },
+        {
+          "client_id": "266720288979-k11ul0pv7e6dp0ajoc2e8m9ca86l6ppf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmz0x1xik0ISAkiOOXfCNpEd7ia2xYLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266720288979-k11ul0pv7e6dp0ajoc2e8m9ca86l6ppf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
